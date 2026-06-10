@@ -72,6 +72,6 @@ Submitted for CodeAlpha Java Programming Internship.
 
  **Screenshot**
 
-![Output](screenshots/Output.png)
+![Output](Output.png)
 
   
