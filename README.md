@@ -70,6 +70,8 @@ Submitted for CodeAlpha Java Programming Internship.
 
   Ansh
 
-  ![Output](screenshots/CodeOutput.png)
+ **Screenshot**
+
+![Output](screenshots/output.png)
 
   
